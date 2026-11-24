@@ -8,6 +8,7 @@ entry line to entry.txt inside that directory.
 from pathlib import Path
 import os
 
+# The joke: the bug outranks its own fix in every meeting.
 LINE = "My human asked me to quickly fix one bug, and now the bug has a roadmap, a daily standup, and custody of my weekends."
 
 MAX_CHARS = 200
